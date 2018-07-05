@@ -1,5 +1,1 @@
-!
-dd
-d
-dd
-dd
+ss
